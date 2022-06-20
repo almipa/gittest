@@ -1,4 +1,4 @@
 # auto_tests
 
-Auto test lessons here
+Auto tests lessons here
 
